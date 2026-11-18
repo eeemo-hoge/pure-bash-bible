@@ -2199,4 +2199,3 @@ Thanks for reading! If this bible helped you in any way and you'd like to give b
 
 Rock on. 🤘
 
-[description](LICENSE.md)
